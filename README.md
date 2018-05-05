@@ -41,7 +41,7 @@ P.S.: The `runSLE-flood.sh` script was only scripted for Linux users, tested on 
 
 ## What's next?
 That's on to do:
-+ The improved version of the C# SL-Emulator by Bluscream __[by Bluscream](https://github.com/Bluscream/TS3SRV-SLE)__
++ The improved version of the C# SL-Emulator __[by Bluscream](https://github.com/Bluscream/TS3SRV-SLE)__
   - A small detail, about this:
     + Added multi entries to the weblist
 
