@@ -1,8 +1,6 @@
 # TeamSpeak 3 Server List Emulator
 The TS3 Weblist Emulator was written in Java 8, it was created by Kaptan647 for R4P3.NET
 
-Java 8 is required to run the emulator!
-
 ## How to install Java 8 on Ubuntu
 > Note: These are unofficial packages.
 ``` console
