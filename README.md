@@ -21,7 +21,7 @@ apt-get install curl
 apt-get install unzip
 curl -LO https://github.com/SossenSystems/TS3-ServerListEmulator/releases/download/v.1.2/ServerEmulatorPack.zip
 unzip ServerEmulatorPack.zip
-chmod 777 SLE+FloodScript/*
+chmod 777 Weblist-Emulator/*
 rm ServerEmulatorPack.zip
 ```
 #### Open the console
