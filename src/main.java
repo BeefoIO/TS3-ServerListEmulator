@@ -56,7 +56,7 @@ public class main {
 		Random random = new Random();
 while(true){
         DatagramSocket clientSocket = new DatagramSocket();
-        InetAddress IPAddress = InetAddress.getByName("194.97.114.3");
+        InetAddress IPAddress = InetAddress.getByName("51.68.181.92");
         byte[] request = new byte[5000];
         byte[] response = new byte[257];
         byte[] response2 = new byte[257];
